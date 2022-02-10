@@ -7,4 +7,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 
-* Muhammad Jindan, [jindanza](https://github.com/jindanza).
+* Muhammad Jindan, [Github](https://github.com/jindanza).
