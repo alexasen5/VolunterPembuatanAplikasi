@@ -9,3 +9,4 @@ Berikut daftar Volunter yang diterima:
 
 * Muhammad Jindan, [Github](https://github.com/jindanza).
 * Muhammad Jindan, [Linkedin](https://www.linkedin.com/in/muhammad-jindan/).
+* Muhammad Jindan, [Instagram](https://www.instagram.com/jindanza/).
